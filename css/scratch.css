@@ -1,0 +1,52 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lavender;
+}
+.Puppies {
+    text-decoration: overline;
+    color: orange;
+}
+
+ol{
+    font-family:'Courier New', Courier, monospace;
+}
+
+img{
+    border: 7px solid whitesmoke;
+    padding: 10px;
+
+}
+
+.footer { 
+    bottom: 0;
+    right:0;
+    left:0;
+    right:0;
+    height: 30 px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items:center; 
+}
+.header { 
+    top: 0;
+    right:0;
+    left:0;
+    right:0;
+    height: 30 px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items:center; 
+}
+
+.list{
+display:flex;
+align-items:center;
+justify-content:center;
+margin: 20px;
+border:4px dotted black;
+flex-direction: column;
+
+
+}
